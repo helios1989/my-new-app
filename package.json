@@ -1,5 +1,5 @@
 {
-  "name": "web-api-tuts",
+  "name": "web-api-verge",
   "version": "0.0.0",
   "main": "src",
   "private": true,
@@ -66,7 +66,5 @@
     "rand-token": "^0.3.0",
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
-,
-    "sendgrid": "^4.0.2"
   }
 }
